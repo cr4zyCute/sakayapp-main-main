@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714330595530",
+    "project_id": "sakayapp-3879b",
+    "storage_bucket": "sakayapp-3879b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714330595530:android:49e31b4e056a40c23fd433",
+        "android_client_info": {
+          "package_name": "com.sakay.rideapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyVU384mpC-efsPNPXBQGU7evEMK1MglI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
