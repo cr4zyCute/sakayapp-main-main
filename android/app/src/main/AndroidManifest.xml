@@ -7,7 +7,7 @@
 
     
     <application
-        android:label="sakayapp"
+        android:label="Safe Ride"
         android:name="${applicationName}"
         
         android:icon="@mipmap/launcher_icon">

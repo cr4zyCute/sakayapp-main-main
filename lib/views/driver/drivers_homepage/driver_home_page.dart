@@ -18,7 +18,7 @@ class MotorDriverApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Motor Ride Driver',
+      title: 'Safe Ride Driver',
       theme: ThemeData.dark().copyWith(
         scaffoldBackgroundColor: Colors.black,
         appBarTheme: const AppBarTheme(
@@ -83,7 +83,7 @@ class _DriverHomePageState extends State<DriverHomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Motor Ride Driver')),
+      appBar: AppBar(title: const Text('Safe Ride Driver')),
       drawer: _buildDrawer(),
       body: HomeScreen(
         key: _homeScreenKey,

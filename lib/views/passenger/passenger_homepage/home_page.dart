@@ -262,7 +262,7 @@ class _Passenger_HomePageState extends State<Passenger_HomePage> {
           icon: const Icon(Icons.menu),
           onPressed: () => _scaffoldKey.currentState?.openDrawer(),
         ),
-        title: const Text('Sakay Na'),
+        title: const Text('Safe Ride'),
         actions: [
           IconButton(
             icon: const Icon(Icons.notifications),
